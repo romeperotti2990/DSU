@@ -5,14 +5,18 @@ FEATURES NEEDED:
     for it to update faster than 15 secs
     dedicated custom tab instead of overtaking real games
     for it to print more thatn just the active window
+    add different thumbnail images depending on what the user is doing
+    get it to stop counting up every time the activity changes (or at all)
 
 IDEAS:
     GENERAL:
         have unique boxes like 'listening to X while playing Y'
         Show what emulator I am using and what game I am playing beyond what discard can do so I can turn off the overlay
         show the title of the video I am watching
-        Show more details about what game I am playing
+        Show more details about what game I am playing (from steam?)
         have it tell if the video I am on is paused
+        have links to the stuff you are looking at when you press the names
+        you could have it show all the stuff you have open and what is active (that might be a little too intrusive though imo)
         More stuff?
     UNIQUE DIALOUGES
         Watching [youtuber name] : [youtube video title]
@@ -22,6 +26,7 @@ IDEAS:
         talking to [AI chatbot name] about [tab name]
         searching [tab name] on [search engine]
         looking at discord on [server name]
+        taking notes about [note tab name]
     SETTINGS:
         excluded windows tabs games and functions
         prob other stuff
