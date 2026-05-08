@@ -2,7 +2,8 @@ BUGS:
     None yet its not made at all
 
 FEATURES NEEDED:
-    to update discord with what I am doing
+    for it to update faster than 15 secs
+    dedicated custom tab instead of overtaking real games
     for it to print more thatn just the active window
 
 IDEAS:
@@ -16,5 +17,11 @@ IDEAS:
     UNIQUE DIALOUGES
         Watching [youtuber name] : [youtube video title]
         Playing [game name] While listening to [music or youtube video title]
-        Listening to [artist name] : [song name] on apple music
+        Listening to [artist name] : [song name] on thier playlist/ from the album [playlist/album name] using [music service name]
         coding on [IDE name] while listening to [artist + song or yt title] (make sure it does not give the file names or anything, just the ide)
+        talking to [AI chatbot name] about [tab name]
+        searching [tab name] on [search engine]
+        looking at discord on [server name]
+    SETTINGS:
+        excluded windows tabs games and functions
+        prob other stuff
