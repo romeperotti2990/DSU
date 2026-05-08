@@ -1,0 +1,20 @@
+BUGS:
+    None yet its not made at all
+
+FEATURES NEEDED:
+    to update discord with what I am doing
+    for it to print more thatn just the active window
+
+IDEAS:
+    GENERAL:
+        have unique boxes like 'listening to X while playing Y'
+        Show what emulator I am using and what game I am playing beyond what discard can do so I can turn off the overlay
+        show the title of the video I am watching
+        Show more details about what game I am playing
+        have it tell if the video I am on is paused
+        More stuff?
+    UNIQUE DIALOUGES
+        Watching [youtuber name] : [youtube video title]
+        Playing [game name] While listening to [music or youtube video title]
+        Listening to [artist name] : [song name] on apple music
+        coding on [IDE name] while listening to [artist + song or yt title] (make sure it does not give the file names or anything, just the ide)
